@@ -5,7 +5,7 @@ export const themes = {
         primary: "#DBCEA5",
     },
     dark: {
-        background: "#000000",
+        background: "#282828",
         text: "#FFFFFF",
         primary: "#DBCEA5",
     },
